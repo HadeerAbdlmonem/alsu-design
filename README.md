@@ -6,8 +6,8 @@
 
 An early, standalone version of the **ALSU** (Arithmetic/Logic/Shift Unit) design that
 later evolved into the more feature-rich `alsu` used in
-[`Assignment_2`](../Assignment_2/ALSU), [`Assignment_3`](../Assignment_3/ALSU), and
-[`Assignment_5`](../Assignment_5/ALSU_part_3).
+[`sv-oop-randomization`](https://github.com/HadeerAbdlmonem/sv-oop-randomization/tree/main/ALSU), [`functional-coverage-verification`](https://github.com/HadeerAbdlmonem/functional-coverage-verification/tree/main/ALSU), and
+[`uvm-intro-verification`](https://github.com/HadeerAbdlmonem/uvm-intro-verification/tree/main/ALSU_part_3).
 
 ## 📦 Module
 
